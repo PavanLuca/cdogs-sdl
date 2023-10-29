@@ -270,7 +270,7 @@
 		}
 	},
 	{
-		"Title": "Fortress Raid",
+		"Title": "Fortress raid",
 		"Description": "The time has come to annihilate Clan Tantalus! Our armies have gathered, ready to crush the defenseless fortress. Spearhead the charge, and leave none alive.",
 		"Type": "Interior",
 		"Width": 57,
@@ -408,7 +408,7 @@
 	},
 	{
 		"Title": "Extermination",
-		"Description": "We have taken the Tantalus stronghold and are wiping out the remnants. Some have take refuge in the nearby caves; enter them and exterminate all that you find.",
+		"Description": "We have taken the Tantalus stronghold and are wiping out the remnants. Some have taken refuge in the nearby caves; enter them and exterminate all that you find.",
 		"Type": "Cave",
 		"Width": 50,
 		"Height": 50,
@@ -518,7 +518,7 @@
 		"DoorsEnabled": true
 	},
 	{
-		"Title": "The Duel",
+		"Title": "The duel",
 		"Description": "Reports indicate that high-value Tantalus personnel may have passed through an ecological testing site. Their flight is being assisted by their fierce general, Denis Colorado. Eliminate him!",
 		"Type": "Classic",
 		"Width": 35,
@@ -638,7 +638,7 @@
 		}
 	},
 	{
-		"Title": "The Search",
+		"Title": "The search",
 		"Description": "The Tantalus heir, Saul, is escaping into the deep desert! He must be found and eliminated. Be wary of the natives, who are rumored to be formidable fighters.",
 		"Type": "Cave",
 		"Width": 70,
@@ -730,7 +730,7 @@
 		"DoorsEnabled": true
 	},
 	{
-		"Title": "Miner Escort",
+		"Title": "Miner escort",
 		"Description": "It has been a full year since the annihilation of Clan Tantalus. Saul Tantalus is presumed dead. Yet the natives have been growing restless and raiding cinnamon mining operations. You are tasked with protecting one of these missions.",
 		"Type": "Cave",
 		"Width": 63,
@@ -837,7 +837,7 @@
 		"DoorsEnabled": true
 	},
 	{
-		"Title": "Deep Desert Raid",
+		"Title": "Deep desert raid",
 		"Description": "We have finally pinpointed a secret native settlement. Conduct a quick and merciless raid, and exact revenge for their foolish audacity.",
 		"Type": "Classic",
 		"Width": 52,
@@ -973,7 +973,7 @@
 	},
 	{
 		"Title": "Captured",
-		"Description": "The raid was a trap! Your troop have been captured and taken to a secret location. Worse, it appears that Saul is still alive and leading the native attacks. Find the rest of your troop and escape immediately!",
+		"Description": "The raid was a trap! Your troop has been captured and taken to a secret location. Worse, it appears that Saul is still alive and leading the native attacks. Find the rest of your troop and escape immediately!",
 		"Type": "Classic",
 		"Width": 48,
 		"Height": 42,
